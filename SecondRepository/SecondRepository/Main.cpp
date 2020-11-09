@@ -28,7 +28,7 @@ int main()
 	int a = 1;
 	int a = 1;
 	int a = 1;
-	int a = 8;
+	int a = 1;
 	int a = 1;
 	int a = 1;
 	int a = 1;
