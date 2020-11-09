@@ -123,8 +123,9 @@ int main()
 
 	while (true)
 	{
-		int player_hand;
 		std::cout << "‚¶‚á‚ñ‚¯‚ñc" << std::endl;
+
+		int player_hand;
 		std::cin >> player_hand;
 		if (player_hand > 3 ||
 			player_hand < 1)
